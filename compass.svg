@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024">
+  <circle cx="512" cy="512" r="430" fill="#F7FAFF"/>
+  <path d="M512 82A430 430 0 1 1 511.9 82M512 154A358 358 0 1 0 512.1 154" fill="#2797F3" fill-rule="evenodd"/>
+  <path d="M208 816A430 430 0 0 1 816 208L765 259A358 358 0 0 0 259 765Z" fill="#FF6900"/>
+  <circle cx="512" cy="512" r="286" fill="#FFFFFF" stroke="#D7E1EE" stroke-width="12"/>
+  <g fill="none" stroke="#8DA0B6" stroke-linecap="round">
+    <path d="M512 260V350M512 674V764M260 512H350M674 512H764" stroke-width="20"/>
+    <path d="M334 334L398 398M626 626L690 690M690 334L626 398M398 626L334 690" stroke-width="12"/>
+  </g>
+  <path d="M512 285L554 438L512 512L470 438Z" fill="#FF6900"/>
+  <path d="M739 285L590 579L512 512L434 445Z" fill="#6D28D9" stroke="#FFFFFF" stroke-width="18" stroke-linejoin="round"/>
+  <path d="M512 512L590 579L285 739L434 445Z" fill="#1677F2" stroke="#FFFFFF" stroke-width="18" stroke-linejoin="round"/>
+  <circle cx="512" cy="512" r="44" fill="#FFFFFF" stroke="#5B2BC6" stroke-width="18"/>
+</svg>
